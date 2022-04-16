@@ -1,2 +1,2 @@
-# python machine learning using Scikit-Learn
+# python machine learning using scikit-learn
 This repository contains machine learning projects done using Scikit-learn library
